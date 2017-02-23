@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jLabel1" alignment="0" max="32767" attributes="0"/>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="ViewlblFname" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblLname" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblMName" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblDOB" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblZip" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblTown" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblareaCode" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblOcc" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblAdd" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblPhone" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ViewlblEmail" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="ViewtxtMname" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtLname" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtFname" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtDOB" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtareaStreetAdd" alignment="0" pref="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtTown" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtZip" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtOcc" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtEmail" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtArea" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ViewtxtPhone" alignment="0" min="-2" pref="129" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="132" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ViewtxtFname" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewlblFname" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ViewlblLname" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtLname" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ViewlblMName" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtMname" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ViewtxtareaStreetAdd" min="-2" pref="60" max="-2" attributes="0"/>
+                  <Component id="ViewlblAdd" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="ViewlblDOB" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtDOB" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ViewlblTown" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtTown" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ViewlblZip" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtZip" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ViewtxtOcc" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewlblOcc" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ViewlblEmail" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtEmail" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ViewlblareaCode" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtArea" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ViewlblPhone" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ViewtxtPhone" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="ViewlblOcc">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Occupation"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblEmail">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Email Address"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="ViewtxtareaStreetAdd">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="ViewTxtareaStAdd">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="ViewlblareaCode">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Area code"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtTown">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ViewtxtTownActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblFname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="First Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblPhone">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Phone number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtZip">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblLname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Last Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtFname">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="toolTipText" type="java.lang.String" value="Enter First Name"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ViewtxtFnameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblMName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Middle Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblDOB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Date of Birth"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtOcc">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtEmail">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblAdd">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Street Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtLname">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ViewtxtLnameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtArea">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblTown">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Town"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtMname">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtPhone">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ViewlblZip">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zip Code"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ViewtxtDOB">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Verdana" size="11" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="View Profile"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
